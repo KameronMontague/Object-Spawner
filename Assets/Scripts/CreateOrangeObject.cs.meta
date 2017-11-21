@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bc3f1f51f05779459a14b108bd97d45
+timeCreated: 1509819017
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - orangeSphere: {fileID: 1145220221273426, guid: 9da4b37d787a71349bbe7fd4c3907310,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

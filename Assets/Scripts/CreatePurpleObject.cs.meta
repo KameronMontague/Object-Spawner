@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa6d11e8fe078c44491a98c27cc847de
+timeCreated: 1509819206
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - purpleCube: {fileID: 1454884575187546, guid: 207ae363530774b4a959d2b8c235631a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

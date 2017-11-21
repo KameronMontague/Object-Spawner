@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b079b757eddbab44b9940251e56be8ed
+timeCreated: 1509818644
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - yellowCube: {fileID: 1446678684214268, guid: 8a7a6e4f662e9464cbd2c3b65f83f9cc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

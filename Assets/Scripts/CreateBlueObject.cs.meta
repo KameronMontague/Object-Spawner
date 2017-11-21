@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd86d85cbcf6a854c87a941e8134ecd1
+timeCreated: 1509818366
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blueSphere: {fileID: 1522302278881890, guid: bad6c059941dcf74da67c62238398f0a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

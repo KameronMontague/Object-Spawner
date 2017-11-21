@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9b468fcd3aeb454781fb7a07d894466
+timeCreated: 1509817420
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - greenCube: {fileID: 1823558249303894, guid: feda59f6864cc8d4f94e449e9a0cfa51,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
